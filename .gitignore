@@ -76,6 +76,9 @@ fastlane/readme.md
 .DS_Store
 Thumbs.db
 
+# Track CLAUDE.md in this repo (globally ignored via ~/.gitignore_global) — the project is intentionally a public reference for working with Claude Code.
+!CLAUDE.md
+
 # Version control
 vcs.xml
 
